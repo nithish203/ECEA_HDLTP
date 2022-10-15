@@ -2,9 +2,13 @@
 ## Syntax
 
 The simulation result of the given two bit adder is attached. The answer is verified with truth table.
+
+
 ![image](https://user-images.githubusercontent.com/115063170/195974135-ad5f0565-7964-4402-887b-ccbe906ccc45.png)
 
 The block diagram of the two bit adder is created using RTL Design.
+
+
 ![image](https://user-images.githubusercontent.com/115063170/195974315-11a6bf6e-e1d2-467f-b15b-46c155907749.png)
 
 
